@@ -10,9 +10,11 @@
 In script change variable `file` by your filepath.
 
 ### Libs to install
-`pip install Pillow`
+`pip install Pillow`  
 `pip install PyQt5`
 
-`get_most_colors_with_average_colors.py` doesn't seems to be usefull. I experimenting there with calculating average color in each color group and output it as result.
+
+#### P.S. Script with average colors
+`get_most_colors_with_average_colors.py` doesn't seems to be usefull. I experimenting there with calculating average color in each color group and output it as result. But the colors are issued faded.
 
 ![scr3](screenshots/2021-09-28_00-44-00_dist125_усредненные_цвета_.png)
