@@ -13,3 +13,6 @@ In script change variable `file` by your filepath.
 `pip install Pillow`
 `pip install PyQt5`
 
+`get_most_colors_with_average_colors.py` doesn't seems to be usefull. I experimenting there with calculating average color in each color group and output it as result.
+
+![scr3](screenshots/2021-09-28_00-44-00_dist125_усредненные_цвета_.png)
