@@ -2,8 +2,7 @@
  Gets most used color from image
 
 ### How to run
-`get_most_colors.py`
-In script change variable `file` to your file path and run the script `get_most_colors.py`
+In script `get_most_colors.py` change variable `file` to your file path and run the script.
 
 
 ![scr1](screenshots/2021-09-27_23-35-55_dist125.png)
